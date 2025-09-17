@@ -12,9 +12,8 @@ use POSIX;
 # There MUST, and SHALL be, real treasure. You can describe where the treasure is 
 # hidden here:
 
-my $theTreasure = "You've found my treasure! Quietly stand up, head out of the classroom 
-and towards the Swope dining room. Next to Swope you will find some pink rhododendrons 
-with an orange traffic cone next to them. Look under the traffic cone and remember that 
+my $theTreasure = "You've found my treasure! Quietly stand up, head out of the classroom
+and turn left. Go to the end of the coridor and check the top box on your left. And remember that 
 a good bioinformagician always abides by the Ft. Lauderdale Agreement and shares their data/booty.";
 
 # Create locations
