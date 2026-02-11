@@ -13,7 +13,7 @@ use POSIX;
 # hidden here:
 
 my $theTreasure = "You've found my treasure! Quietly stand up, head out of the classroom
-and turn left. Go to the end of the coridor and check the top box on your left. And remember that 
+and check the top of a bulletin board of the Dept. of Molecular Biology and Genetics. And remember that 
 a good bioinformagician always abides by the Ft. Lauderdale Agreement and shares their data/booty.";
 
 # Create locations
